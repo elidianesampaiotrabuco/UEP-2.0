@@ -1,5 +1,3 @@
-<!-- e -->
-
 # UnityExplorer+ (Rewrite)
 
 <i>Content is subject to change.</i>

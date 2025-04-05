@@ -243,7 +243,7 @@ namespace UnityExplorer.UI
 
             // CinematicUnityExplorer title
 
-            string titleTxt = $"CUE <i><color=grey>{ExplorerCore.VERSION}</color></i>";
+            string titleTxt = $"UE+ <i><color=grey>{ExplorerCore.VERSION}</color></i>";
             Text title = UIFactory.CreateLabel(navbarPanel, "Title", titleTxt, TextAnchor.MiddleCenter, default, true, 14);
             UIFactory.SetLayoutElement(title.gameObject, minWidth: 75, flexibleWidth: 0);
 

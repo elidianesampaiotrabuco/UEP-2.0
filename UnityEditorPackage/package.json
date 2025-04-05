@@ -1,12 +1,12 @@
 {
-  "name": "com.originalnicodr.cinematicunityexplorer",
-  "version": "1.3.0",
-  "displayName": "CinematicUnityExplorer",
-  "description": "UnityExplorer fork focused on providing tools for creating marketing material for Unity games.",
+  "name": "com.asterisk.unityexplorerplus",
+  "version": "2.0.0",
+  "displayName": "UnityExplorer+",
+  "description": "Expanded version of UE based on the CinematicUnityExplorer codebase",
   "unity": "2017.1",
-  "documentationUrl": "https://github.com/originalnicodr/UnityExplorer",
-  "changelogUrl": "https://github.com/originalnicodr/UnityExplorer/releases",
-  "licensesUrl": "https://github.com/originalnicodr/UnityExplorer/blob/master/LICENSE",
+  "documentationUrl": "https://github.com/elidianesampaiotrabuco/UEP-2.0",
+  "changelogUrl": "https://github.com/elidianesampaiotrabuco/UEP-2.0/releases",
+  "licensesUrl": "https://github.com/elidianesampaiotrabuco/UEP-2.0/blob/master/LICENSE",
   "keywords": [
     "inspector",
     "debug",
@@ -17,7 +17,7 @@
     "photomode"
   ],
   "author": {
-    "name": "originalnicodr",
-    "url": "https://github.com/originalnicodr"
+    "name": "ASTerisk",
+    "url": "https://github.com/elidianesampaiotrabuco"
   }
 }
